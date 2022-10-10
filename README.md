@@ -1,4 +1,4 @@
-# Supervised Machine Learning Project: Online Encyclopedia of Integer Sequences (OEIS).
+# Unsupervised Machine Learning Project: Online Encyclopedia of Integer Sequences (OEIS).
 
 Logistic regression, AdaBoost and XGBoost classifiers are used to determine whether a sequence increases or decreases at the 10th value from the 9th value with the previous nine sequence values used as features. Data is retrieved from the Online Encyclopedia of Integer Sequences (OEIS). 
 
